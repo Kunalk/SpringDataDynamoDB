@@ -70,4 +70,6 @@ repository.save(Arrays.asList(new Customer("JSA-2", "Adam", "Johnson"), new Cust
  custom find methods
  repository.findByLastName(lastName)
  
-  
+  -----------------------------------------------------------------
+  finally access your application -->
+  http://localhost:8080/springdynamo/findall
